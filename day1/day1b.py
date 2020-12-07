@@ -1,6 +1,4 @@
 import itertools
-import operator
-import functools
 
 text_file = "input.txt"
 year_number = 2020

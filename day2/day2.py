@@ -8,7 +8,6 @@ with open(text_file) as f:
     password_list = f.read().splitlines()
 
 for rule_and_password in password_list:
-
     word_bits = rule_and_password.split(" ")
     minumum = int(word_bits[0].split("-")[0])
     maximum = int(word_bits[0].split("-")[1])

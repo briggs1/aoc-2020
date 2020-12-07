@@ -1,6 +1,3 @@
-from os import WCOREDUMP
-
-
 text_file = "day2/input.txt"
 valid_password_count = 0
 

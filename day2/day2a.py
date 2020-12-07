@@ -1,4 +1,4 @@
-text_file = "day2/input.txt"
+text_file = "input.txt"
 valid_password_count = 0
 
 with open(text_file) as f:

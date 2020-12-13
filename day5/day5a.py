@@ -1,4 +1,4 @@
-text_file = "day5/input.txt"
+text_file = "input.txt"
 rows = []
 columns = [i for i in range(8)]
 seat_ids = []
